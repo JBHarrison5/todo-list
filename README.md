@@ -9,6 +9,8 @@ This skeleton application used was built for Composer which made set quick and e
 
 **Installing**
 
+Ensure you have the correct docker set up by following the guide in [this](https://github.com/iO-Academy/docker-image) repo
+
 Clone this repo:
 
 ```
