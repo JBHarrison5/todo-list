@@ -3,7 +3,7 @@
 This is a simple to-do list application that allows you to log tasks, edit the tasks, mark tasks as done and permanently delete tasks. It was built using PHP with the Slim 4 framework and styled using bootstrap. The database was implemented with mySQL.
 This was a really interesting project to get to grips with the slim framework.
 
-This skeleton application used was built for Composer which made set quick and easy.
+This skeleton application used was built for Composer which made the set-up quick and easy.
 
 # Getting Started
 
@@ -49,4 +49,4 @@ John Harrison - [@JBHarrison5](https://github.com/JBHarrison5)
 
 # Links
 
-Live App - ???
+Live App - [LINK](https://todo-list.2024-johnh.dev.io-academy.uk/)
